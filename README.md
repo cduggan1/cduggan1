@@ -1,9 +1,9 @@
 # Hi, I'm Creagh Duggan! 👋
 
-![cduggan1's Stats](https://github-readme-stats.vercel.app/api?username=cduggan1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![cduggan1's Stats](https://github-readme-stats.vercel.app/api?username=cduggan1&theme=ambient_gradient&show_icons=true&hide_border=true&count_private=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cduggan11)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cduggan11)
 
 
 ## 🚀 About Me
