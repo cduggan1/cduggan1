@@ -3,7 +3,7 @@
 ![cduggan1's Stats](https://github-readme-stats.vercel.app/api?username=cduggan1&theme=ambient_gradient&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cduggan11)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cduggan11&theme=ambient_gradient)
 
 
 ## 🚀 About Me
